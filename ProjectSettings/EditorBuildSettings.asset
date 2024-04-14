@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/InventoryScene/Inventory.unity
+    guid: 9bff63c189c9bcc4b8bcdc3434387739
+  - enabled: 1
+    path: Assets/Island Part/Island1.unity
+    guid: 8f5121eff47d432468389504c83e08a3
+  m_configObjects: {}
